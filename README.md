@@ -8,10 +8,10 @@
   - [Common CSRF defenses](Common-CSRF-defenses)
   - [CSRF Cheat Sheet](CSRF-Cheat-Sheet)
   - [Proof-of-Concept Attacks](Proof---of---Concept-Attacks)
-- [Tools](tools)
-- [References](references)
-- [Resources](resources)
-- [Labs](Labs)
+- [Tools](#tools)
+- [References](#references)
+- [Resources](#resources)
+- [Labs](#Labs)
 
 ## Methodology
 ### What is the impact of CSRF?
