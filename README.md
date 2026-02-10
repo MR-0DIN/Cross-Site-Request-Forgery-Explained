@@ -3,11 +3,11 @@
 
 ## Summary
 - [Methodology](#methodology)
-  - [What is the impact of CSRF?](What-is-the-impact-of-CSRF?)
-  - [When does CSRF work?](When-does-CSRF-work?)
-  - [Common CSRF defenses](Common-CSRF-defenses)
-  - [CSRF Cheat Sheet](CSRF-Cheat-Sheet)
-  - [Proof-of-Concept Attacks](Proof---of---Concept-Attacks)
+  - [What is the impact of CSRF?](#What-is-the-impact-of-CSRF?)
+  - [When does CSRF work?](#When-does-CSRF-work?)
+  - [Common CSRF defenses](#Common-CSRF-defenses)
+  - [CSRF Cheat Sheet](#CSRF-Cheat-Sheet)
+  - [Proof-of-Concept Attacks](#Proof---of---Concept-Attacks)
 - [Tools](#tools)
 - [References](#references)
 - [Resources](#resources)
